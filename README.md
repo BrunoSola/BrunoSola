@@ -1,4 +1,4 @@
-### Ola, eu sou o Bruno 👋 <br/>
+### Olá, eu sou o Bruno 👋 <br/>
 
 Possuo formação em Análise e Desenvolvimento de Sistemas, e recentemente concluí cursos de programação em Java Lógica de Programação e Algoritmo, Java programação orientada a objetos, e atualmente estou estudando Framework Spring e Spring boot.
 
