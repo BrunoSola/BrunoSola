@@ -1,10 +1,8 @@
-### Hi, I'm Bruno 👋 <br/>
+### Ola, eu sou o Bruno 👋 <br/>
 
-I have a degree in **systems analysis and development.** <br/><br/>
+Possuo formação em Análise e Desenvolvimento de Sistemas, e recentemente concluí cursos de programação em Java Lógica de Programação e Algoritmo, Java programação orientada a objetos, e atualmente estou estudando Framework Spring e Spring boot.
 
-I am looking for an opportunity as a junior to improve my knowledge, by putting it into practice and learning from experienced co-workers.<br/><br/>
-
-I'm learning at the moment **Spring framework**.<br/>
+Estou empenhado em aplicar meu background técnico e minha paixão por tecnologia na criação de sistemas back-end que atendam às necessidades dos usuários e suportem operações empresariais.
  
  <!-- Redes Sociais -->
  <div> 
