@@ -20,12 +20,14 @@ Estou empenhado em aplicar meu background técnico e minha paixão por tecnologi
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />   
+  <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <br/><br/>
+  <img align="center" alt="profile_tecnologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSola&layout=compact&theme=nord_dark" />
 </div> <br/><br/> 
 
 ## 📚🚀 GitHub Stats 📈🤓
 <div><br/>
   <img align="center" alt="summary_stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSola&theme=nord_dark"/>
   <img align="center" alt="summary" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSola&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" />
-  <img align="center" alt="profile_summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSola&theme=nord_dark" />
+  <img align="center" alt="profile_summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSola&theme=nord_dark" />  
 </div>  
